@@ -4,7 +4,7 @@ module.exports = {
   TOKEN: "",
   language: "vi",
   ownerID: ["1004206704994566164", ""], 
-  mongodbUri : "mongodb+srv://vinh:<Teuvinh123>@cluster0.4kwla.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+  mongodbUri : "mongodb+srv://vinh:teuvinh123@vinh.8v99x.mongodb.net/?retryWrites=true&w=majority&appName=vinh",
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
   embedColor: "#1db954",
